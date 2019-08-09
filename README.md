@@ -1,2 +1,2 @@
 # Codechef
-All that I solve on codechef.
+Starting to learn from codechef from 9 August 2019.
